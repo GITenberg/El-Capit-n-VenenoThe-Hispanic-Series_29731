@@ -1,0 +1,41 @@
+_repo: El-Capit-n-VenenoThe-Hispanic-Series_29731
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29731-h/images/cover.png
+creator:
+  author:
+    agent_name: Alarcón, Pedro Antonio de
+    aliases:
+    - Alarcon, Pedro Antonio de
+    - Ariza, Pedro Antonio de Alarcón y
+    - De Alarcón, Pedro Antonio
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '6108'
+    url: http://www.gutenberg.org/2009/agents/6108
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+    - http://es.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+  editor:
+    agent_name: Burnet, Percy B. (Percy Bentley)
+    birthdate: 1861
+    gutenberg_agent_id: '34125'
+    url: http://www.gutenberg.org/2009/agents/34125
+description: ''
+gutenberg_issued: '2009-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29731'
+  lccn: '20016790'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: 'El Capitán Veneno
+
+  The Hispanic Series'
+url: http://www.gutenberg.org/ebooks/29731
